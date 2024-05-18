@@ -7,8 +7,6 @@
 </div>
 <br />
 
-<img width="1026" alt="스크린샷 2024-05-17 오후 1 36 40" src="https://github.com/exceed96/Personal_42Libft/assets/90549959/4b05dcae-4cb2-4910-b16d-fe67d65aea6f">
-
 <br />
 
 ##  ☑️ 스택
@@ -32,6 +30,5 @@
 <br />
 
 ## ☑️ 프로젝트 결과
-![May-18-2024 11-18-35](https://github.com/exceed96/Personal_42Libft/assets/90549959/de6f76da-d0f7-4b82-8ba9-2903e501803a)
 <img width="202" alt="스크린샷 2024-05-18 오전 11 29 41" src="https://github.com/exceed96/Personal_42ft_Printf/assets/90549959/b0f0974f-bac0-4073-b347-c15b2ad5ca64">
 
